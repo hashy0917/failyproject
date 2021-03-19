@@ -71,4 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ---
 # memo
 vercel hosting
-https://failyproject.hashy0917.net
+https://fairyproject.hashy0917.net
